@@ -44,3 +44,7 @@ The project generates a visualization showing the comparison between actual and 
 - Pandas  
 - Matplotlib  
 - yfinance
+
+## Output
+
+![Prediction Graph](Figure_1.png)
