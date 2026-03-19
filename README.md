@@ -1,3 +1,7 @@
+# Project Banner
+![LSTM ](https://github.com/user-attachments/assets/f4a3dd0b-23fd-4f60-9659-c05cfd09a1e8)
+
+
 # Stock Price Prediction using LSTM
 
 This project predicts stock prices using a Long Short-Term Memory (LSTM) neural network. The model is trained on historical stock data obtained from Yahoo Finance and learns patterns in time-series data to forecast future prices.
